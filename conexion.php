@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect("fdb32.awardspace.net","3867818_chatweb","Raiwosix17.","3867818_chatweb");
+$db = mysqli_connect("","","","");
 
 // if($db)
 //     echo 'Conexion';
